@@ -48,7 +48,7 @@
 -->
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=junn-shadow&langs_count=15&layout=donut-vertical&theme=dracula&custom_title=Json%20Security&cache_seconds=7200">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=junn-shadow&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Json%20Security&cache_seconds=100" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=junn-shadow&langs_count=15&layout=donut-vertical&theme=dracula&hide_border=true&custom_title=Junn%20Stack&cache_seconds=100" />
   </a>
   <br>
   <a href="https://github.com/junn-shadow/tunNgrok">
