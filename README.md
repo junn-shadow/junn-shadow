@@ -1,4 +1,8 @@
-<img src="https://raw.githubusercontent.com/junn-shadow/junn-shadow/main/all/junn-shadow.png" style="display: block; margin-left: auto; margin-right: auto;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/junn-shadow/junn-shadow/main/all/junn-shadow.png" width="900" height="363">
+</div>
+
+<br>
 
 <!--### ⚔️ Scopes
 [![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](#)
