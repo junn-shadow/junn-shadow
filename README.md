@@ -144,7 +144,9 @@
         <img  width="35px" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/free-kaggle-3521526-2945029.png"/>
         <img  width="35px" height="35px" src="https://avatars.githubusercontent.com/u/15658638"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png" width="50" height="30"/> 
-        <img src="https://i.ibb.co/NrCpW5N/Firefox-Developer-Edition-logo-2013.png" alt="Firefox-Developer-Edition-logo-2013" height="40" width="40" border="0">
+        <img src="https://cdn.simpleicons.org/torbrowser/7D4698" width="40" height="40" title="Tor Browser" />
+<img src="https://cdn.simpleicons.org/librewolf/0A2C4A" width="40" height="40" title="LibreWolf" />
+<img src="https://cdn.simpleicons.org/brave/FF2000" width="40" height="40" title="Brave" />
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
         <img src="https://i.ibb.co/7KZpZkL/1024px-Github-desktop-logo-symbol-svg.png" height="40" width="40" alt="1024px-Github-desktop-logo-symbol-svg" border="0">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="auto" height="40px" alt="notepad++" border="0">
