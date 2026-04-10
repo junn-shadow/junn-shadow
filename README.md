@@ -1,4 +1,4 @@
-<img src="https://github.com/junn-shadow/Images/blob/main/all/logogit.png" />
+<img src="https://github.com/junn-shadow/Images/blob/main/all/junn-shadow.png" />
 
 <!--### ⚔️ Scopes
 [![Cyber Security](https://img.shields.io/badge/CYBER%20SECURITY-🎣-cyan?style=for-the-badge&logo=linux&logoColor=white)](#)
